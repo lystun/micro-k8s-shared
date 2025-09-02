@@ -15,11 +15,11 @@
     "trailingComma": "es5"
   },
   "keywords": [],
-  "name": "ola-okegbemi",
-  "author": "",
+  "name": "@lystun/microk8s-shared",
+  "author": "ola-okegbemi",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/lystun/micro-k8s-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
