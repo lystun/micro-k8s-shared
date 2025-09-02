@@ -19,6 +19,6 @@
     "pretty": true,
     "resolveJsonModule": true,
   },
-  "include": ["src"],
+  "include": ["src", "src/interfaces/auth.interface.ts", "src/interfaces/buyer.interface.ts", "src/interfaces/chat.interface.ts", "src/interfaces/cloudinary-upload.ts", "src/interfaces/email.interface.ts", "src/interfaces/error-handler.ts", "src/interfaces/gateway-middleware.ts", "src/interfaces/gig.interface.ts", "src/interfaces/helpers.ts", "src/interfaces/index.ts", "src/interfaces/logger.ts", "src/interfaces/order.interface.ts", "src/interfaces/review.interface.ts", "src/interfaces/search.interface.ts", "src/interfaces/seller.interface.ts"],
   "exclude": ["node_modules"]
 }
